@@ -11,7 +11,7 @@
   "dependencies": {
     "@odopod/odo-dialog": "^2.0.2",
     "register-service-worker": "^1.0.0",
-    "vue": "^2.5.16",
+    "vue": "^2.6.14",
     "vue-class-component": "^6.2.0",
     "vue-property-decorator": "^6.0.0",
     "vuex": "^3.0.1"
